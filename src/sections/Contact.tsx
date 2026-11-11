@@ -2,7 +2,6 @@
 import { motion } from "framer-motion";
 import {
   Mail,
-  MessageCircle,
   ArrowUpRight,
   Send,
   Code2,
@@ -104,7 +103,7 @@ export default function Contact() {
               Vamos conversar! Estou sempre disposto a aprender,
               colaborar e encarar novos desafios.
             </p>
-
+{/* 
             <a
               href="https://wa.me/5583999760359"
               target="_blank"
@@ -114,7 +113,7 @@ export default function Contact() {
               <MessageCircle size={19} />
               Entrar em contato
               <ArrowUpRight size={18} />
-            </a>
+            </a> */}
           </div>
 
           <div className="contact-card-decoration">

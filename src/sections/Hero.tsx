@@ -101,7 +101,7 @@ export default function Hero() {
           </a>
 
           <a
-            href="../../public/Curriculo.pdf"
+            href="/Curriculo.pdf"
             download="Curriculo.pdf"
             className="hero-button hero-button-secondary"
           >
