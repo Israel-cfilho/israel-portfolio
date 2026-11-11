@@ -20,8 +20,6 @@ const categories = [
       "JavaScript",
       "React",
       "Vite",
-      "Next.js",
-      "TypeScript",
     ],
   },
   {
@@ -36,14 +34,14 @@ const categories = [
     title: "Banco de dados",
     description: "Armazenamento e gerenciamento de informações.",
     icon: Database,
-    technologies: ["MySQL", "Postgress", "Firebase"],
+    technologies: ["MySQL", "PostgreSQL", "Firebase"],
   },
   {
     number: "04",
     title: "Ferramentas",
     description: "Ferramentas utilizadas no desenvolvimento.",
     icon: Wrench,
-    technologies: ["Git", "GitHub"],
+    technologies: ["Git", "GitHub", "Jira", "Trellor", "IntelliJ", "VSCode"],
   },
 ];
 
