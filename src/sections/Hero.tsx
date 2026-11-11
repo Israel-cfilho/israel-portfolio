@@ -101,8 +101,8 @@ export default function Hero() {
           </a>
 
           <a
-            href="/curriculo.pdf"
-            download="Israel-Lima-Curriculo.pdf"
+            href="../../public/Curriculo.pdf"
+            download="Curriculo.pdf"
             className="hero-button hero-button-secondary"
           >
             Baixar currículo
